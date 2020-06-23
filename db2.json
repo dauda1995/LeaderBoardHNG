@@ -1,0 +1,42 @@
+{
+  "users": [
+   
+    {
+      "email": "micheal@gmail.com",
+      "username": "micheal",
+      "password": "dauda",
+      "id": 3
+    },
+    {
+      "email": "chris@yahoo.co.ukd",
+      "username": "chris uloko",
+      "password": "",
+      "id": 10
+    },
+    {
+      "email": "@chloe_christenseen",
+      "username": "chloe k",
+      "password": "dauda",
+      "id": 14
+    },
+    {
+      "username": "leon scott kennedy",
+      "email": "@kennedy",
+      "password": "kennedyy",
+      "id": 9
+    },
+    {
+      "username": "kazuya mishima",
+      "email": "@zaibatsu",
+      "password": "kennedyy",
+      "id": 20
+    },
+    {
+      "username": "ichigo kurosaki",
+      "email": "@tensa-zangetsu",
+      "password": "dauda",
+      "id": 2
+    }
+  ]
+ 
+}
