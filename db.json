@@ -1,0 +1,42 @@
+{
+  "users": [
+   
+    {
+      "email": "dauda1996@gmail.com",
+      "username": "dauda78",
+      "password": "dauda",
+      "id": 7
+    },
+    {
+      "email": "dauda1995@yahoo.co.ukd",
+      "username": "dauda933@gmail.com",
+      "password": "",
+      "id": 9
+    },
+    {
+      "email": "daudagoogle234@gmail.com",
+      "username": "dauda",
+      "password": "dauda",
+      "id": 17
+    },
+    {
+      "email": "daudagoogle.io@gmail.com",
+      "username": "new user",
+      "password": "kennedyy",
+      "id": 9
+    },
+    {
+      "email": "daudagoogle23@gmail.com",
+      "username": "dauda",
+      "password": "kennedyy",
+      "id": 20
+    },
+    {
+      "email": "dauda302943@sdjs.sjfk",
+      "username": "dauda933@gmail.com",
+      "password": "dauda",
+      "id": 2
+    }
+  ]
+ 
+}
